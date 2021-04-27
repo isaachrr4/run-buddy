@@ -254,7 +254,8 @@
       color: #fce138;
       font-size: 32px;
   }
-  .contact-info p, .contact-info address {
+  .contact-info p,
+   .contact-info address {
       margin: 20px 0;
       line-height: 1.5;
       font-size: 20px;
@@ -263,5 +264,4 @@
   .contact-info a {
     color: #fce138;
   }
-  
   /* REACH OUT STYLES END */
